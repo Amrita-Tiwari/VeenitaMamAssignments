@@ -1,0 +1,2 @@
+# VeenitaMamAssignments
+Placement related  preparation
